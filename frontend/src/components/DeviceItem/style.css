@@ -1,0 +1,8 @@
+.inventory-table-row {
+  cursor: pointer;
+}
+
+.inventory-table-row:hover .inventory-table-cell{
+  box-shadow: 0px 0px 1px 1px rgb(21, 0, 211);
+}
+

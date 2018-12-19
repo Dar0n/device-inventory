@@ -1,0 +1,14 @@
+.inventory-table-header-cell {
+  background-color: aqua;
+  padding: 3px 5px;
+}
+
+.inventory table {
+  margin: 0 auto;
+  border-spacing: 5px;
+
+}
+
+.inventory-table-cell {
+  background-color: azure;
+}
